@@ -11,6 +11,17 @@ An enterprise-grade **Document Understanding and Explainable Recruitment Intelli
 
 ---
 
+## 📸 Working System Preview
+
+![Explainable Resume Matcher & Anomaly Radar](docs/screenshots/dashboard.png)
+
+## 📊 Kaggle & Production Recruitment Datasets
+
+The platform integrates realistic resume and job description datasets modeled after Kaggle Information Technology Resumes & Job Postings:
+- [`kaggle_resumes_recruitment_benchmark.csv`](data/kaggle_resumes_recruitment_benchmark.csv): Candidate profiles across Software Architecture, Machine Learning, and DevOps, reported years of experience, academic credentials & graduation years, skill overlap %, TF-IDF composite match scores, and automated integrity anomaly flags.
+
+---
+
 ## 🌟 Standout Feature: Explainable Matching & Anomaly Detection
 
 Unlike opaque "black box" resume screeners, this platform provides **granular, explainable matching** combined with **integrity audits**:

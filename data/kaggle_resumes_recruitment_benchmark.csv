@@ -1,0 +1,6 @@
+candidate_id,candidate_name,reported_experience_years,degree_education,graduation_year,primary_skills,target_job_title,overall_match_score,skill_overlap_pct,timeline_inconsistency_flag,recommendation_status
+CAN-101,Aarav Sharma,7,B.Tech Computer Science,2017,"Java, Spring Boot, Kubernetes, Docker, PostgreSQL, Kafka, AWS",Senior Cloud Distributed Systems Engineer,94.2,100.0%,CLEAN_VERIFIED,STRONG_HIRE_FAST_TRACK
+CAN-102,Sophia Lin,5,M.S. Artificial Intelligence,2019,"Python, FastAPI, PyTorch, Scikit-learn, LangChain, Docker",Lead Machine Learning Engineer,91.8,92.0%,CLEAN_VERIFIED,INTERVIEW_RECOMMENDED
+CAN-103,Derrick Evans,8,B.S. Information Systems,2023,"Java, Microservices, Spring, Docker, Git",Senior Cloud Distributed Systems Engineer,61.4,66.7%,TIMELINE_CONFLICT_6YRS_VS_2023_GRAD,INTEGRITY_AUDIT_REQUIRED
+CAN-104,Priya Patel,2,B.S. Software Engineering,2022,"Python, Scikit-learn, Pandas, SQL",Lead Machine Learning Engineer,54.0,50.0%,EXPERIENCE_DEFICIT_UNDERQUALIFIED,PIPELINE_JUNIOR_POOL
+CAN-105,Lucas Romero,6,Self-Taught / Bootcamp,2018,"Go, Kubernetes, Terraform, Prometheus, Linux",Platform Infrastructure Architect,78.5,80.0%,MISSING_ACADEMIC_RECORD,PORTFOLIO_REVIEW_STAGE
